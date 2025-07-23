@@ -1,0 +1,1 @@
+// Aquí va la lógica con Supabase que definimos, o el siguiente paso a integrar si lo deseas
